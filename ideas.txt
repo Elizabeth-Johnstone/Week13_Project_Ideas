@@ -1,0 +1,9 @@
+1. Visit Paris App: An app that allows users to create an account, sign in, and add attractions in Paris to their "Want to visit" list or their "visited" list.
+
+2. Vegetarian Recipe App: A website with vegetarian recipes that are searchable by ingredients and can be saved by the user to a "favorites" list. Users can create an account and sign in.
+
+3. Art Collector: An app that uses the MET's Art Collection API to allow users to search for works of art, view information about them, and save them to a favorites list. Users can create an account and sign in.
+
+4. Pokémon Teams: An app that uses PokéAPI to allow users to search for Pokemon, view their stats, and add them to different user-created teams lists. Users can create an account and sign in.
+
+5. To-do list: Allows users to generate items for to-do lists and save them to user-generated lists. Users can search within their lists for tasks and check off items. Users can create an account and sign in.
